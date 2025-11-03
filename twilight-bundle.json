@@ -10,5 +10,22 @@
     "author_email": "programerallam@gmail.com",
     "support_url": "",
     "repository": "https://github.com/YoussefAllamS/tw-animated-images",
-    "components": []
+    "components": [],
+    "settings": [
+        {
+            "id": "text_area",
+            "type": "string",
+            "format": "textarea",
+            "label": "Text Area",
+            "description": null,
+            "labelHTML": "<h1>hello</h1>",
+            "placeholder": "Youssef Allam",
+            "icon": "sicon-typography",
+            "value": "test",
+            "multilanguage": false,
+            "required": false,
+            "minLength": 20,
+            "maxLength": 255
+        }
+    ]
 }
