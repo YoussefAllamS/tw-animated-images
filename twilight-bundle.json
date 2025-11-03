@@ -13,13 +13,18 @@
     "components": [],
     "settings": [
         {
-            "id": "title",
-            "type": "static",
-            "format": "title",
-            "label": "Title",
-            "value": "Youssef",
-            "variant": "h1",
-            "icon": "sicon-format-text"
+            "id": "Allam",
+            "type": "collection",
+            "format": "collection",
+            "label": "Collection",
+            "description": "Youssef",
+            "labelHTML": "<h1>alla,</h1>",
+            "item_label": "Allam",
+            "icon": "sicon-list-add",
+            "fields": [],
+            "value": [],
+            "minLength": 1,
+            "maxLength": 5
         }
     ]
 }
