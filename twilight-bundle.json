@@ -13,19 +13,13 @@
     "components": [],
     "settings": [
         {
-            "id": "text_area",
-            "type": "string",
-            "format": "textarea",
-            "label": "Text Area",
-            "description": null,
-            "labelHTML": "<h1>hello</h1>",
-            "placeholder": "Youssef Allam",
-            "icon": "sicon-typography",
-            "value": "test",
-            "multilanguage": false,
-            "required": false,
-            "minLength": 20,
-            "maxLength": 255
+            "id": "title",
+            "type": "static",
+            "format": "title",
+            "label": "Title",
+            "value": "Youssef",
+            "variant": "h1",
+            "icon": "sicon-format-text"
         }
     ]
 }
