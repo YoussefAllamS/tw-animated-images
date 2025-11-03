@@ -10,7 +10,15 @@
     "author_email": "programerallam@gmail.com",
     "support_url": "",
     "repository": "https://github.com/YoussefAllamS/tw-animated-images",
-    "components": [],
+    "components": [
+        {
+            "key": "2d367283-d69a-4360-ba77-30e258b93cc7",
+            "title": "Allam-slid",
+            "icon": "sicon-table",
+            "path": "Allam-slid",
+            "fields": []
+        }
+    ],
     "settings": [
         {
             "id": "Allam",
