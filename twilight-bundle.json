@@ -17,6 +17,13 @@
             "icon": "sicon-table",
             "path": "Allam-slid",
             "fields": []
+        },
+        {
+            "key": "8c9655a5-7559-4977-bb59-8355175074c3",
+            "title": "test",
+            "icon": "sicon-store",
+            "path": "t",
+            "fields": []
         }
     ],
     "settings": [
